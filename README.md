@@ -5,4 +5,6 @@ Sudoku is a popular logic-based puzzle game. The game consists of a grid typical
 Below is a  short recording of the sudoku solver.
 
 
-https://github.com/PavanSai-39/Sudoku_Solver/assets/45734995/8fdd1004-1e64-4053-a485-f24f3f81e407
+
+https://github.com/PavanSai-39/Sudoku_Solver/assets/45734995/d51c8423-311a-436b-b84f-99c0d774d0f5
+
